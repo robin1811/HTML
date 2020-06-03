@@ -1,0 +1,46 @@
+
+body{
+  background-color: #EAF6F6;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color:grey;
+  border-width:4px;
+  width:15%;
+}
+
+h1{
+  color: #66BFBF;
+}
+.heading:hover{
+  color: blue;
+  background-color: gold;
+}
+a:hover{
+  color: #ff0000;
+}
+h3{
+  color: #66BFBF;
+}
+h4{
+  color: #66BFBF;
+}
+img:hover{
+  background-color: pink;
+}
+.backh:hover{
+  background-color: gold;
+}
+.back{
+  background-color: #EAF6F6;
+}
+.mailImage{
+  background-color: gold;
+  border-radius: 10%;
+  height: 75px;
+}
+.circle{
+  border-radius: 25%;
+
+}
